@@ -32,7 +32,7 @@ This tool allows you to enjoy the benefits of Discord Nitro for free. By followi
 6. Paste the image links into the `links.txt` file, each on a new line.
 7. Save the `links.txt` file.
 8. Run the `STICKER GENERATOR` file.
-9. Your newly added stickers will appear in the tool after closing it and repressing the shortcut again
+9. Your newly added stickers will appear in the tool after closing it and repressing the shortcut again.
 
 Please note that the usage of this tool may not be in compliance with Discord's terms of service. Use it responsibly and at your own risk.
 
